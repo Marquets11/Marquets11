@@ -134,19 +134,20 @@ Me chamo Marcus Vinicius Martins Marco, tenho 23 anos e sou de Feira de Santana 
 
 ### 📊 Estatísticas
 
-<p style="display: flex">
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Marquets11&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    style="padding-right: 10px; width: 400px" 
+    src="https://github-readme-stats.vercel.app/api?username=Marquets11&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="width: 360px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marquets11&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
