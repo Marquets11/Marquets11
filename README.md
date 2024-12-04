@@ -1,10 +1,11 @@
 # 👩🏻‍💻 Marcus Vinicius
 
 **`Desenvolvedor FullStack`**
-
-Me chamo Marcus Vinicius Martins Marco, tenho 23 anos e sou de Feira de Santana - BA. Atualmente, estou cursando Sistemas de Informação no IFBA. Atuo como desenvolvedor FullStack e com forte experiência em tecnologias modernas como Next.js, React e Typescript. Possuo uma abordagem focada em performance e qualidade, sempre buscando entregar interfaces de usuário altamente responsivas e intuitivas. Com sólida base técnica, sou capaz de estruturar aplicações escaláveis e manter um código limpo e modular, características essenciais para projetos de longo prazo.
+<p style="text-align: justify">
+Me chamo Marcus Vinicius Martins Marco, tenho 23 anos e sou de Feira de Santana - BA. Atualmente, estou cursando Sistemas de Informação no IFBA. Atuo como desenvolvedor FullStack e com forte experiência em tecnologias modernas como Next.js, React e           Typescript. Possuo uma abordagem focada em performance e qualidade, sempre buscando entregar interfaces de usuário altamente responsivas e intuitivas. Com sólida base técnica, sou capaz de estruturar aplicações escaláveis e manter um código limpo e modular, características essenciais para projetos de longo prazo.
 
 Além disso trago comigo habilidades interpessoais que são diferenciais no ambiente de trabalho. Comunicação clara e objetiva facilitando o entendimento e a colaboração com as equipes multidisciplinares, garantindo o alinhamento quanto aos objetivos e desafios dos projetos. Com excelente capacidade de resolução de problemas, proatividade em propor soluções e otimizações que agreguem valor ao produto final. Também sou familiarizado a ambientes e demandas dinâmicas.
+</p>
 
 <p align="left">
     <a href="www.linkedin.com/in/marcus-vinicius-martins-2048aa224">
